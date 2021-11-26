@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedellin-js.gitbook.io%2Fworkshop-fullstack-js-developer%2Fbackend%2Fexpress-js&psig=AOvVaw2E9rvRyD86N5FEHjv5BW9M&ust=1637976549816000&source=images&cd=vfe&ved=2ahUKEwiCs76k8LT0AhWiAtQKHS1nBfkQr4kDegUIARCrAQ" width="320"/>
+  <img src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh14lb3LH4C886qWxYA%2F-Lh1DZeIUQennGd9RiHe%2FScreen%20Shot%202019-06-10%20at%2011.30.20%20AM.png?alt=media&token=784b79f6-81b5-4308-97a2-155afb9d496f" width="320"/>
 </p>
 
 ## Correr Aplicacion
